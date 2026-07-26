@@ -12,7 +12,7 @@ I combine economics, finance, business operations, and technology to transform d
 
 ## Technical Skills
 
-Python | SQL | PostgreSQL | R | Stata | Power BI | Tableau | Git
+Python | SQL | PostgreSQL | R | gretl | Power BI | Tableau | Git
 
 ## Featured Projects
 
