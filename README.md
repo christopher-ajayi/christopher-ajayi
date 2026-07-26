@@ -2,7 +2,7 @@
 
 Development Economist | Data Analytics | Financial Analytics | Public Policy
 
-I combine economics, finance, business operations, and technology to transform data into actionable insights for better decisions.
+ I am assionate about transforming data into actionable insights that inform policy, economic development & better business decisions.
 
 ## About Me
 
