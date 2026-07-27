@@ -12,7 +12,7 @@ Development Economist | Data Analytics | Financial Analytics | Public Policy
 
 ## Technical Skills
 
-Python | SQL | PostgreSQL | R | gretl | Power BI | Tableau | Git
+Python | SQL | PostgreSQL | Excel | R | gretl | Power BI | Tableau | Git
 
 ## Featured Projects
 
