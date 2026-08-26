@@ -8,7 +8,7 @@ Development Economist | Data Analytics | Financial Analytics | Public Policy
 
 - 📊 Interested in economic analysis, financial analysis, public policy, and data-driven decision-making
 - 💼 Background in businesss process analysis and strategic management.
-- 💻 Building projects using Python, SQL, R, Stata, Power BI, and Tableau
+- 💻 Building projects using Excel, SQL, Python, R, Stata, and Power BI
 
 ## Technical Skills
 
@@ -16,8 +16,8 @@ Python | SQL | PostgreSQL | Excel | R | gretl | Power BI | Tableau | Git
 
 ## Featured Projects
 
-- Labour Market Intelligence
-- Financial Macro Pipeline
+- Canadian Housing Market Analysis
+- Canadian Corporate Financial Analysis
 - US Public Company Financial Analytics
 
 ## Connect With Me
