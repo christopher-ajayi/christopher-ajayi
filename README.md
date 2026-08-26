@@ -16,9 +16,9 @@ Python | SQL | PostgreSQL | Excel | R | gretl | Power BI | Tableau | Git
 
 ## Featured Projects
 
-- Canadian Housing Market Analysis
-- Canadian Corporate Financial Analysis
-- US Public Company Financial Analytics
+- [Canadian Housing Market Analysis](https://github.com/christopher-ajayi/canadian_housing_market_analysis)
+- [Canadian Corporate Financial Analysis](https://github.com/christopher-ajayi/canadian_corporate_financial_analysis)
+- [US Public Company Financial Analytics](https://github.com/christopher-ajayi/US_Public_Company_Financial_Analytics)
 
 ## Connect With Me
 
