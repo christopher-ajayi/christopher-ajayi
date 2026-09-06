@@ -1,6 +1,6 @@
 # Hi, I'm Christopher
 
-Development Economist | Data Analytics | Financial Analytics | Public Policy
+Economist | Data Analytics | Financial Analytics | Public Policy
 
  I am passionate about transforming data into actionable insights that inform policy, economic development & better business decisions.
 
