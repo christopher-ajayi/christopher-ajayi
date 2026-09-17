@@ -16,9 +16,9 @@ Python | SQL | PostgreSQL | Excel | R | gretl | Power BI | Tableau | Git
 
 ## Featured Projects
 
+- [Health System Performance Analytics](https://github.com/christopher-ajayi/healthcare-system-performance-analytics)
 - [Canadian Housing Market Analysis](https://github.com/christopher-ajayi/canadian_housing_market_analysis)
 - [Canadian Corporate Financial Analysis](https://github.com/christopher-ajayi/canadian_corporate_financial_analysis)
-- [US Public Company Financial Analytics](https://github.com/christopher-ajayi/US_Public_Company_Financial_Analytics)
 
 ## Connect With Me
 
